@@ -1,6 +1,8 @@
-# Banking System TDD Implementation - Phase 1
+# Banking System TDD Implementation
 
-A Test-Driven Development (TDD) implementation of a simple banking system in Python, focusing on foundation and account creation functionality.
+[![CI](https://github.com/ghodeaniket/tdd-bank-account-python/actions/workflows/ci.yml/badge.svg)](https://github.com/ghodeaniket/tdd-bank-account-python/actions/workflows/ci.yml)
+
+A Test-Driven Development (TDD) implementation of a simple banking system in Python with comprehensive testing and CI/CD.
 
 ## Project Overview
 
